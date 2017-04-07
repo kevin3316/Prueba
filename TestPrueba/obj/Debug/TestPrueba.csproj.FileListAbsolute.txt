@@ -1,0 +1,27 @@
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\TestPrueba.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\TestPrueba.pdb
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\Prueba.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\Prueba.pdb
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\obj\Debug\TestPrueba.csprojResolveAssemblyReference.cache
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\obj\Debug\TestPrueba.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\TestPrueba\obj\Debug\TestPrueba.pdb
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\TestPrueba.dll
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\TestPrueba.pdb
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\Prueba.dll
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\Prueba.pdb
+C:\Users\David\Desktop\Prueba\TestPrueba\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\David\Desktop\Prueba\TestPrueba\obj\Debug\TestPrueba.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Prueba\TestPrueba\obj\Debug\TestPrueba.dll
+C:\Users\David\Desktop\Prueba\TestPrueba\obj\Debug\TestPrueba.pdb
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\TestPrueba.dll
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\TestPrueba.pdb
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\Prueba.dll
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\Prueba.pdb
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\obj\Debug\TestPrueba.csprojResolveAssemblyReference.cache
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\obj\Debug\TestPrueba.dll
+C:\Users\kevin3316\Source\Repos\Prueba\TestPrueba\obj\Debug\TestPrueba.pdb

@@ -1,0 +1,16 @@
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\Prueba\bin\Prueba.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\Prueba\bin\Prueba.pdb
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\Prueba\obj\Debug\Prueba.dll
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\kevin3316\Desktop\USAC\Analisis y Diseño 1\Laboratorio\Practica 2\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Prueba\Prueba\bin\Prueba.dll.config
+C:\Users\David\Desktop\Prueba\Prueba\bin\Prueba.dll
+C:\Users\David\Desktop\Prueba\Prueba\bin\Prueba.pdb
+C:\Users\David\Desktop\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Prueba\Prueba\obj\Debug\Prueba.dll
+C:\Users\David\Desktop\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\kevin3316\Source\Repos\Prueba\Prueba\bin\Prueba.dll
+C:\Users\kevin3316\Source\Repos\Prueba\Prueba\bin\Prueba.pdb
+C:\Users\kevin3316\Source\Repos\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\kevin3316\Source\Repos\Prueba\Prueba\obj\Debug\Prueba.dll
+C:\Users\kevin3316\Source\Repos\Prueba\Prueba\obj\Debug\Prueba.pdb
